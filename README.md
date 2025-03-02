@@ -22,34 +22,58 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configuring roles
+- Configure department and teams
+- Allow anyone to create tickets
+- Configure agents and users
+- Configure SLA and Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9XTqpZt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the admins panel go to the Agents tab then click the departments tab to configure the department settings. Added a new department called SysAdmins with access to all the tickets. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hrJF2JV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to admin panel, then Agents tab, then Teams tab to create a new team or configure seetings of other teams. Created a new team called Online Banking where members of this team will deal with tickets from the online banking section of the company.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/X2YmT8m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating an account for the workers of the help desk. Account allows the workers to view and deal with tickets.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/GoJ9RRO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating an account for the workers of the help desk. Account allows the workers to view and deal with tickets.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bRN7tgt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating an account for the workers of the help desk. Account allows the workers to view and deal with tickets.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8GszncY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating an account for the workers of the help desk. Account allows the workers to view and deal with tickets.
 </p>
 <br />
