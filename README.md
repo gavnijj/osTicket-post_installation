@@ -58,7 +58,7 @@ Creating an account for the workers of the help desk. Account allows the workers
 <img src="https://i.imgur.com/GoJ9RRO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating an account for the workers of the help desk. Account allows the workers to view and deal with tickets.
+The user creating an account to submit a helpdesk ticket to report a problem she is facing. The ticket would then be able to be viewed on the agents panel of the help desk. 
 </p>
 <br />
 
@@ -66,7 +66,7 @@ Creating an account for the workers of the help desk. Account allows the workers
 <img src="https://i.imgur.com/bRN7tgt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating an account for the workers of the help desk. Account allows the workers to view and deal with tickets.
+Created three different SLA plans that scale with the severity of the ticket. Sev-A is the highest priority and a tikcet marked with this plan should be handled with the utmost urgency. Sev-B is next and is not quite as important as a Sev-A ticket but should still be resolved quickly. Sev-C is of the least priority and should be proritzed last if there other tickets to handle.
 </p>
 <br />
 
@@ -74,6 +74,6 @@ Creating an account for the workers of the help desk. Account allows the workers
 <img src="https://i.imgur.com/8GszncY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating an account for the workers of the help desk. Account allows the workers to view and deal with tickets.
+ Help topics are something the end user uses when creating a ticket to select a category in where their ticket may belong. There are topics such as personal computer issues, equipment resets, business outages, etc. 
 </p>
 <br />
